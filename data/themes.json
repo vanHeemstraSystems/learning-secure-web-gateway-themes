@@ -1,0 +1,13 @@
+{
+  "name": "themes",
+  "children": [
+    {
+      "name": "Secure Web Gateway",
+      "children": [
+        {
+          "name": "Secure Web Gateway Foo"
+        }
+      ]
+    }
+  ]
+}
